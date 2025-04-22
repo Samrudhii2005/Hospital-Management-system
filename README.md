@@ -19,7 +19,7 @@ A web-based Hospital Management System built using **Python (Flask)** and **MySQ
 ## 🛠️ Tech Stack
 
 - **Backend:** Python, Flask
-- **Frontend:** HTML, CSS, Bootstrap (optional)
+- **Frontend:** HTML, CSS
 - **Database:** MySQL
 - **Security:** Flask-Bcrypt for password hashing
 
